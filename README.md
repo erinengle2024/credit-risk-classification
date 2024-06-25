@@ -7,10 +7,8 @@ Welcome to my submission for the Leaflet Challenge in module 20 of the Data Anal
 # Challenge Description
 For this assignment, we used unsupervised learning techniques to analyze cryptocurrency price changes over 24 hours and 7 days. We normalized the data, applied K-means clustering, and used the elbow method to determine the optimal number of clusters. Additionally, we performed Principal Component Analysis (PCA) to reduce the data dimensions and compared the clustering results before and after PCA to evaluate the impact of dimensionality reduction on clustering performance.
 
-
-![image](https://github.com/erinengle2024/CryptoClustering/assets/158017994/da214ca2-febe-4a47-a16a-21fe1c494af7)
-![image](https://github.com/erinengle2024/CryptoClustering/assets/158017994/2da2c3d5-b556-4039-858b-52c36306ec31)
-![image](https://github.com/erinengle2024/CryptoClustering/assets/158017994/9335487d-89a3-4308-b7be-a07c0791f7b7)
+![image](https://github.com/erinengle2024/credit-risk-classification/assets/158017994/f649b458-7331-4cde-b99a-64039ecd0e6b)
+![image](https://github.com/erinengle2024/credit-risk-classification/assets/158017994/e905ef63-443c-463f-91fc-506ac5829dad)
 
 
 
@@ -30,12 +28,6 @@ For this assignment, we used unsupervised learning techniques to analyze cryptoc
 
   
   # My Results
-![Screenshot 2024-06-20 at 10 29 49 AM](https://github.com/erinengle2024/CryptoClustering/assets/158017994/4d0cd4fe-9089-4ed2-ae0a-18a7828d0dc1)
-![Screenshot 2024-06-20 at 10 30 03 AM](https://github.com/erinengle2024/CryptoClustering/assets/158017994/6fd7272c-24af-4c7a-af01-f321371bb02e)
-![Screenshot 2024-06-20 at 10 30 15 AM](https://github.com/erinengle2024/CryptoClustering/assets/158017994/ef69f1d3-1213-43a9-8f6f-eee115e34f04)
-![Screenshot 2024-06-20 at 10 30 36 AM](https://github.com/erinengle2024/CryptoClustering/assets/158017994/67fb6280-c886-45d9-947b-27a883e269f0)
-![Screenshot 2024-06-20 at 10 30 46 AM](https://github.com/erinengle2024/CryptoClustering/assets/158017994/4d5c1c33-049d-4289-a674-71a26343204a)
-
 
 
 
